@@ -1,0 +1,16 @@
+﻿regiao,cidade,uf,preco_m2_mediano_cidade,bairros_observados,anuncios_ativos_media_dia
+Centro-Oeste,Campo Grande,MS,4449.0,244,1651
+Centro-Oeste,Cuiabá,MT,5280.0,141,1584
+Centro-Oeste,Goiânia,GO,4526.0,367,3736
+Nordeste,Fortaleza,CE,4706.0,101,1305
+Nordeste,João Pessoa,PB,4446.0,70,5290
+Nordeste,Recife,PE,7042.0,73,2664
+Nordeste,Salvador,BA,5192.0,139,5322
+Norte,Belém,PA,6180.0,31,1598
+Sudeste,Belo Horizonte,MG,5740.0,239,5957
+Sudeste,Campinas,SP,4399.5,364,3460
+Sudeste,Rio de Janeiro,RJ,4388.0,149,12110
+Sudeste,São Paulo,SP,5673.5,1316,61025
+Sul,Curitiba,PR,8070.0,81,6007
+Sul,Florianópolis,SC,10698.0,77,8982
+Sul,Porto Alegre,RS,5058.0,117,6558
