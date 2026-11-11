@@ -62,10 +62,6 @@ Caso o ambiente não tenha alguma biblioteca, execute:
 
 Os números finais dependem dos dados efetivamente retornados no momento da execução. Nenhum valor foi pré-preenchido ou simulado.
 
-## Publicação no GitHub
-
-Crie um repositório chamado `analise-imobiliaria-material-brasil` e envie o conteúdo desta pasta mantendo a estrutura acima. Depois, para abrir no Colab, use a opção **Arquivo > Abrir notebook > GitHub** e informe o endereço do repositório.
-
 ## Limitações
 
 - Preços anunciados não equivalem a preços efetivamente transacionados.
